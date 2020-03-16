@@ -1,0 +1,33 @@
+* {box-sizing:border-box;
+  margin:0 auto;padding:0;}	
+
+div {width:500px:height:400px;}
+
+form {width: 80%;
+    margin: 0 auto;}
+
+label, input , select {display: inline-block;}
+
+label {width: 30%;
+  text-align: right;}
+
+label + input  {width: 30%;
+   			 margin: 0 30% 0 2%;
+   			 text-align: right;}
+
+input + input {float: right;}
+​
+
+
+#sel2 {width: 30%;
+   	  margin: 0 30% 0 2%;
+     text-align: right;}
+
+#sel3 {float:right;
+		margin:0 0 1% 1%;}
+
+#sub {width:30%;
+   	margin:0 2% 0 10%}
+
+#lab1 {margin-right:2px;}   	
+
